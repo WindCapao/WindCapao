@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Arwind!
 
 # 💫 About Me:
-👨‍💻I'm a passionate front end developer and Learning in teach<br>👨‍🎓Studying Information Technology at Polytechnic University of the Philippines<br>🌐Currently Learning more about being front end Developer.<br>
+👨‍💻I'm a passionate front end developer and Learning in tech<br>👨‍🎓Studying Information Technology at Polytechnic University of the Philippines<br>🌐Currently Learning more about being front end Developer.<br>
 
 
 ## 🌐 Socials:
